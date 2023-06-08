@@ -1,12 +1,9 @@
 ### xlsx_to_mysql
 
-* Select one or multiple *.xlsx files with the interactive selector, merge and remove duplicates
-* Each sheet is converted into a table with MySQL DB and stored
-
------
-
+- Select one or multiple *.xlsx files with the interactive selector, then merge and remove duplicates
+- Save the sheets of the read Excel files as individual tables in the MySQL DB Schema
 * 대화형 선택상자로 1개 혹은 여러 개의 *.xlsx 파일을 선택한 뒤 병합 및 중복 제거
-* MySQL DB로 각 Sheet를 Table화 하여 저장
+* 읽어들인 엑셀파일들의 Sheet들을 MySQL DB Schema내에 각각의 Table로 저장
 
 -----
 
