@@ -1,4 +1,4 @@
-##### xlsx_to_mysql
+### xlsx_to_mysql
 
 -----
 
@@ -10,8 +10,7 @@
 -----
 
 1. library 파일 속 db_config_example.py 파일에
-사용할 MySQL DB에 해당하는 값을 넣고
-db_config.py 라는 원래 이름으로 수정
+사용할 MySQL DB에 해당하는 값을 넣고 db_config.py 라는 원래 이름으로 수정
 
 2. 기존에 DB에 동일한 이름의 Table이 저장되어 있는경우 replace 해서 교체됩니다.
 
